@@ -33,7 +33,7 @@ const Layout = ({ children }) => (
           {children}
           <footer>
             <div>
-              Built by <a href="https://twitter.com/thorwebdev">Thor</a> with{' '}
+              Built by <a href="https://bikeidaho.pazres.net">Paz</a> with{' '}
               <a href="https://www.gatsbyjs.org">Gatsby</a> | View{' '}
               <a href="https://github.com/gatsbyjs/gatsby/tree/master/examples/ecommerce-tutorial-with-stripe">
                 source
