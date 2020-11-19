@@ -8,6 +8,7 @@ const IndexPage = () => (
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <h1>RLTT</h1>
     <p>Welcome to Remote Learning Tech Tips.</p>
+    This is the first pull request for this project.
     
   </Layout>
 )
