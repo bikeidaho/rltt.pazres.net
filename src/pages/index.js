@@ -1,15 +1,16 @@
 import React from 'react'
 
+import Navbar from '../components/Navbar/Navbar'
 import Layout from '../components/layout'
 import SEO from '../components/seo'
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
+    
+    <SEO title="Home" keywords={[`remote`, `learning`, `techtips`]} />
     <h1>RLTT</h1>
     <p>Welcome to Remote Learning Tech Tips.</p>
-    <p>This is the first of many pull request for this project.</p>
-    
+     
   </Layout>
 )
 
